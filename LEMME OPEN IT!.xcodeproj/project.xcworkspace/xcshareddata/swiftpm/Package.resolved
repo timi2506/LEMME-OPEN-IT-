@@ -1,0 +1,15 @@
+{
+  "originHash" : "02d9129cb0b037cd300fb138a5aad05b74d9f7754962ba5f1988b3a0b61b8016",
+  "pins" : [
+    {
+      "identity" : "extendedattributes",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sindresorhus/ExtendedAttributes.git",
+      "state" : {
+        "revision" : "bf0cade5654fbdc0cfcb3ac34bcc644c156fb902",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
